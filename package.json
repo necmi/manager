@@ -18,7 +18,7 @@
   "dependencies": {
     "@types/promise.prototype.finally": "^2.0.2",
     "autoprefixer": "7.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.1",
     "case-sensitive-paths-webpack-plugin": "2.1.1",
     "chalk": "1.1.3",
